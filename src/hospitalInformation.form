@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="location" type="java.awt.Point" editor="org.netbeans.beaninfo.editors.PointEditor">
+      <Point value="[280, 150]"/>
+    </Property>
+    <Property name="undecorated" type="boolean" value="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,4,0,0,3,7"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="50" width="770" height="230"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="cc" red="cc" type="rgb"/>
+            </Property>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Hospital Managment Systems was introduced to solve the complications coming from managing all &#xa;the paper works of every patient associated with the various departments of hospitalization&#xa;with confidentiality. HMS provides the ability to manage all the paperwork in one place, &#xa;reducing the work of staff in arranging and analyzing the paperwork of the patients. HMS does &#xa;many works like:&#xa;                 * Maintain the medical records of the patient  &#xa;&#xa;                 * Maintain the contact details of the patient&#xa;&#xa;                 * Keep track of the appointment dates&#xa;&#xa;Features of Hospital Management System:&#xa;&#xa;Appointment Management&#xa;&#xa;&#xa;For hospitals having their own site, appointment widgets will be integrated onto the site.&#xa; Patients visiting the hospital&#x2019;s website can book online appointments with ease.&#xa;&#xa;&#xa;Billing Management&#xa;&#xa;&#xa;Integrated Billing with treatments, Lab and Radiology. Alerts will be sent on Discount&#xa; Authorisation. Automatic due capture, Option to bill before and after consultation.&#xa;&#xa;&#xa;&#xa;Prescription Management&#xa;&#xa;&#xa;Manage commonly and recently used medicines. Option to show medicines available in the &#xa;pharmacy. SMS prescriptions to Patients.&#xa;&#xa;&#xa;Discharge Summary&#xa;&#xa;&#xa;Template based Discharge Summary. ICD10 integration. Option to prevent discharge summary till&#xa; IP bill is closed.&#xa;&#xa;&#xa;Operation Theatre Management&#xa;&#xa;&#xa;Automatic notification can be sent to customers on test results. Lab notifications like&#xa;email, SMS of the test reports sent from the Automated Lab notification module.&#xa;&#xa;&#xa;&#xa;Pharmacy Management&#xa;&#xa;&#xa;Comprehensive Pharmacy Management handles stock, Prescription Integration, Ward Request, &#xa;Stock Management, Stock Moment and intelligent reports.&#xa;&#xa;&#xa;Lab Management&#xa;&#xa;&#xa;Comprehensive Lab Management handles complete order management, Custom Reports, Smart &#xa;Notifications, Credit Settlement, detailed MIS Reports, Analytics and App for Phlebotomist.&#xa;&#xa;&#xa;Master Information Systems&#xa;&#xa;&#xa;Lets you access entire MIS data from your palm.&#xa;&#xa;&#xa;Manage Multiple Locations&#xa;&#xa;&#xa;Any number of branches can be added and managed using a single account.&#xa;&#xa;&#xa;&#xa;Benefits of Hospital Management System:&#xa;&#xa;&#xa;We have so far clarified on the importance of HMS, it is your responsibility to pick out the&#xa; right kind of HMS for your needs and purposes. Here we give more information on the benefits&#xa; of various HMS and the impact it creates on hospital systems.&#xa;&#xa;&#xa;Easy Patient data retrieval:&#xa;&#xa;&#xa;HMS makes it possible to access all the data related to a patient via a system by the means &#xa;of a few simple clicks. Information like patient history, current illness, doctors involved, &#xa;tests reports taken, billing information and many more can be made visible to the user. &#xa;These data will help to connect the dots about the patient, like specific diagnosis, related&#xa; treatment, and medication.&#xa;&#xa;&#xa;The Electronic Medical Record (EMR)  or Electronic Health Record (EHR):&#xa;&#xa;&#xa;This electronic-based medical record system can be viewed as a patient&#x2019;s health chart. &#xa;It retrieves information based on the patient&#x2019;s name or medical record number or the &#xa;physician&#x2019;s record number.&#xa;&#xa;&#xa;Increased Data security:&#xa;&#xa;&#xa;The patient data can be kept a hundred percent safe by using HMS in your hospital. It can be &#xa;made accessible by only a limited amount of authorized personnel. With HMS, all the data is &#xa;stored on a server or cloud and kept safe by just securing the login information safe.&#xa;&#xa;&#xa;Improve Visibility and Transparency:&#xa;&#xa;&#xa;Hospital Management System (HMS) improves the visibility and transparency in the complete &#xa;management process and in all records.&#xa;&#xa;&#xa;Streamline Accurate Reporting:&#xa;&#xa;&#xa;It helps in streamlining the accurate reporting with the help of updated and accurate &#xa;records.&#xa;&#xa;&#xa;Improved Quality Control:&#xa;&#xa;&#xa;Hospital Management System improves the quality control on the products and services of the&#xa; hospital.&#xa;&#xa;&#xa;Improved Management Visibility:&#xa;&#xa;&#xa;It also improves the management visibility of hospital, all information, and data regarding&#xa; the patient, doctor and medicine could be seen by any department easily.&#xa;&#xa;&#xa;Ease to Access System Facilities:&#xa;&#xa;&#xa;Hospital Management System makes it easy to get access to the management system facilities &#xa;for the authorized users and keep it safe from unauthorized users.&#xa;&#xa;&#xa;Cost Effective:&#xa;&#xa;&#xa;HMS not only saves time in the hospital but also is cost-effective in decreasing the number &#xa;of people working on the system of manual entry of data and paperwork. The implementation &#xa;of His will decrease the human intervention into the system thereby avoiding human-caused &#xa;errors.&#xa;&#xa;&#xa;Every hospital has different needs, analyze what is best for your requirement and install &#xa;the apt HMS system.&#xa;&#xa;&#xa;                 * Save the insurance information for later reference&#xa;&#xa;                 * Tracking the bill payments."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="1"/>
+        </Property>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Close.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Close"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="590" y="420" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/add45.jpg"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="-10" width="-1" height="520"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>
