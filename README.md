@@ -1,11 +1,20 @@
-# HospitalManagment-Devjam2021
+# HospitalManagment-Devjam2021 "Teach Warriors"
                                 
                                 
                                 
-                                ![programming](https://user-images.githubusercontent.com/78801686/119232724-e12da500-bb43-11eb-960f-124967af1491.gif)
-![2DYg](https://user-images.githubusercontent.com/78801686/119232732-ea1e7680-bb43-11eb-8c6a-4d06bacf3cdd.gif)
-
 ![Uploading Screenshot 2021-05-22 210641.jpg.gif…]()
+
+
+
+
+
+
+
+
+
+
+![programming](https://user-images.githubusercontent.com/78801686/119232806-25b94080-bb44-11eb-8467-392a59e9f2ee.gif)
+
 
 
 
