@@ -2,7 +2,6 @@
                                 
                                 
                                 
-![Uploading Screenshot 2021-05-22 210641.jpg.gif…]()
 
 
 
@@ -12,8 +11,6 @@
 
 
 
-
-![programming](https://user-images.githubusercontent.com/78801686/119232806-25b94080-bb44-11eb-8467-392a59e9f2ee.gif)
 
 
 
@@ -48,5 +45,6 @@ In this page we can see all the information related to hospital
 
 #                       Teach Warriors
 
+![Screenshot 2021-05-22 210641 jpg](https://user-images.githubusercontent.com/78801686/119232867-539e8500-bb44-11eb-9fdd-47e7a3e11cda.gif)
 
 
